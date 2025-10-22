@@ -1,5 +1,5 @@
 # File : SS_Project2_PartA.py
-# Date : 10/26/2025
+# Date : 10/22/2025
 #   A program to play a two-player Tic-Tac-Toe game implementation
 #   (Rewritten into OOP structure)
 #
